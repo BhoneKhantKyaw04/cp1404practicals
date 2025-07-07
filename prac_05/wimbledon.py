@@ -5,8 +5,9 @@ Actual:
 """
 
 FILENAME = "wimbledon.csv"
-COUNTRY_INDEX = 1
 CHAMPION_INDEX = 2
+COUNTRY_INDEX = 1
+
 
 def main():
     """Coordinate the reading, processing and display of Wimbledon data."""
